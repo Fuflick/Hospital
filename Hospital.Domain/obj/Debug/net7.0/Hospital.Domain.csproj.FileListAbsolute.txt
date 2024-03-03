@@ -1,0 +1,11 @@
+C:\Vus\Forwife\Hospital\Hospital.Domain\bin\Debug\net7.0\Hospital.Domain.deps.json
+C:\Vus\Forwife\Hospital\Hospital.Domain\bin\Debug\net7.0\Hospital.Domain.dll
+C:\Vus\Forwife\Hospital\Hospital.Domain\bin\Debug\net7.0\Hospital.Domain.pdb
+C:\Vus\Forwife\Hospital\Hospital.Domain\obj\Debug\net7.0\Hospital.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vus\Forwife\Hospital\Hospital.Domain\obj\Debug\net7.0\Hospital.Domain.AssemblyInfoInputs.cache
+C:\Vus\Forwife\Hospital\Hospital.Domain\obj\Debug\net7.0\Hospital.Domain.AssemblyInfo.cs
+C:\Vus\Forwife\Hospital\Hospital.Domain\obj\Debug\net7.0\Hospital.Domain.csproj.CoreCompileInputs.cache
+C:\Vus\Forwife\Hospital\Hospital.Domain\obj\Debug\net7.0\Hospital.Domain.dll
+C:\Vus\Forwife\Hospital\Hospital.Domain\obj\Debug\net7.0\refint\Hospital.Domain.dll
+C:\Vus\Forwife\Hospital\Hospital.Domain\obj\Debug\net7.0\Hospital.Domain.pdb
+C:\Vus\Forwife\Hospital\Hospital.Domain\obj\Debug\net7.0\ref\Hospital.Domain.dll
